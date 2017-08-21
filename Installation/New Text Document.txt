@@ -1,1 +1,2 @@
-Please do not reproduce this Software. All rights reserved RTG
+Please do not reproduce this Software. All rights reserved RTG. 
+NOTE: Please do not delete the Data folder!
